@@ -72,7 +72,7 @@ a {
 }
 .login-html .sign-in:checked + .tab,
 .login-html .sign-up:checked + .tab {
-  color: #ff0000;
+  color: #fff;
   border-color: #1161ee;
 }
 .login-form {
